@@ -1,0 +1,24 @@
+h1{
+    color: #808080
+} 
+
+.desin{ 
+    color: aquamarine;
+}
+.fresh{
+    text-transform: capitalize;
+}
+.de{
+    background-color: red;
+
+}
+.de:hover{
+    background-color: aqua;
+    width: 200px;
+}
+.fem{
+    border: 10px dotted rgba(0, 0, 0, 0.619);
+    padding-top: 20px;
+    margin-bottom: 200px;
+    border-top-right-radius: 25%;
+}
